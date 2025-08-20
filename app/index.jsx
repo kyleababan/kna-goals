@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        K M N A NEW GOALgit add . G O A L S
+        K M N A N E W G O A L S
       </Text>
       <Link style={styles.link} href="/goals">
         View Your Goals
